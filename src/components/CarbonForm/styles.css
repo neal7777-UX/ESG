@@ -1,0 +1,52 @@
+.carbon-form {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 24px;
+}
+
+.carbon-form h2 {
+  text-align: center;
+  color: #1890ff;
+  margin-bottom: 8px;
+}
+
+.carbon-form h3 {
+  margin: 24px 0 16px;
+  color: #333;
+}
+
+.carbon-form h3:first-of-type {
+  text-align: center;
+  color: #666;
+  margin: 0 0 32px;
+}
+
+.carbon-form .ant-form-item {
+  margin-bottom: 24px;
+}
+
+.carbon-form .ant-upload-list {
+  max-width: 600px;
+}
+
+.carbon-form .ant-checkbox-group {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.carbon-form .ant-form-item-extra {
+  color: #ff4d4f;
+}
+
+.carbon-form ul {
+  margin: 8px 0;
+  padding-left: 24px;
+}
+
+.carbon-form .ant-btn-primary {
+  width: 200px;
+  height: 40px;
+  display: block;
+  margin: 40px auto 0;
+}
